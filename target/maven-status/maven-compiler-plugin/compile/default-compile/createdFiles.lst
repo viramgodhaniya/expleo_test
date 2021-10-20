@@ -1,0 +1,7 @@
+config\BrowserLaunch.class
+config\Environment.class
+extend\CommonUtilities.class
+config\ExecutionSettings.class
+pom\XeCurrencyConvertorConvertionPage.class
+extend\CommonUIFunctions.class
+pom\XeCurrencyConvertorHomePage.class

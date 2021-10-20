@@ -1,0 +1,5 @@
+stepLib\XeCurrencyConvertorStepLib.class
+testRunner\AcceptanceTest.class
+stepDef\XeCurrencyConvertorDefn.class
+support\PropertiesLoader.class
+support\Constants.class
